@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">SaveFarmerNew</string>
+
+    <string name="label_name">Name</string>
+    <string name="label_productname">Product Name</string>
+    <string name="label_address">Address</string>
+    <string name="label_city">City</string>
+    <string name="label_area">Area</string>
+    <string name="label_capacity">Capacity</string>
+    <string name="label_zip">ZIP</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_repassword">Re-enter Password</string>
+    <string name="label_save">Save</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_login">Login</string>
+    <string name="label_update">Update</string>
+    <string name="label_contactno">Contact no</string>
+    <string name="label_rate">Rate</string>
+    <string name="label_otp">Otp</string>
+    <string name="label_quantity">Quantity</string>
+    <string name="label_state">State</string>
+    <string name="label_addstate">Add State</string>
+    <string name="label_addadmin">Add Admin</string>
+    <string name="label_addstorage">Add Storage</string>
+    <string name="label_storagel">Apply For Storage</string>
+    <string name="label_wholesaler">Apply For Wholesaller</string>
+    <string name="label_storage">Add Storage Type</string>
+    <string name="label_storagedetails">Add Storage Details</string>
+    <string name="label_addcatagery">Add Catagery</string>
+    <string name="label_catagery">Catagery</string>
+    <string name="label_descri">Description</string>
+    <string name="label_feedback">Feedbaack</string>
+    <string name="label_payrecord">Show paymeent record</string>
+    <string name="label_prate">Payable Rate(/kg)</string>
+    <string name="label_srate">Selling Rate</string>
+    <string name="label_viewrequest">View Request</string>
+
+    <string name="label_productdetail">Productdetail(Stock)</string>
+    <string name="error_string">Field must not be empty.</string>
+
+
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid contactno</string>
+    <string name="addresserror">Enter a valid address</string>
+    <string name="passworderror">Enter a vaild password</string>
+    <string name="feedbackerror">Cannot be empty</string>
+
+</resources>
