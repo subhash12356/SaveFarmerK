@@ -4,6 +4,7 @@ public class ApiReso {
 
    public static final String BASE_URL = "http://www.sk-infosoft.com/farmerprudhvi/";
 
+
     public static final String GETALLSTATE = BASE_URL + "GetallState.php";
     public static final String REGISTRATION = BASE_URL + "Registration.php";
     public static final String LOGIN = BASE_URL + "Login.php";
